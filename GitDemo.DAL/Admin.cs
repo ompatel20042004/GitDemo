@@ -13,6 +13,8 @@ namespace GitDemo.DAL
         public string AdminEmail { get; set; }
         public string AdminPassword { get; set; }
         public string AdminPhone { get; set; }
+        public string Address { get; set; }
+        public string City { get; set; }
 
     }
 }
